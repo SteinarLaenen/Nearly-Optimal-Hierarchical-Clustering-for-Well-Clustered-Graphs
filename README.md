@@ -1,5 +1,5 @@
 # Nearly-Optimal Hierarchical Clustering for Well-Clustered Graphs
-This is the official implementation of the main Algorithm SpecWRSC of the paper "Nearly-Optimal Hierarchical Clustering for Well-Clustered Graphs"
+This is the official implementation of the main Algorithm SpecWRSC of the paper "Nearly-Optimal Hierarchical Clustering for Well-Clustered Graphs", published in ICML 2023.
 
 ## Requirements
 To install the requirements, run the command:
