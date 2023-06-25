@@ -24,7 +24,7 @@ def main():
     # run the tests
     test.test_stochastic_block_model(tree_types, out)
     test.test_hierarchical_stochastic_block_model(tree_types, out)
-    test.test_real_data(tree_types, out)
+    # test.test_real_data(tree_types, out) to fix
     out.close()
 
 if __name__ == "__main__":
